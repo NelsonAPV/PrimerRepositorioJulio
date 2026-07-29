@@ -6,12 +6,14 @@ import org.w3c.dom.NodeList;
 import javax.xml.parsers.DocumentBuilderFactory;
 import java.io.File;
 
-public class Main {
+//lectura de fichero XML con atributos e hijos
+
+public class Ejercicio_5 {
     public static void main(String[] args) {
 
     try {
 
-        Document document = DocumentBuilderFactory.newInstance().newDocumentBuilder().parse(new File("datos.xml"));
+        Document document = DocumentBuilderFactory.newInstance().newDocumentBuilder().parse(new File("ejercicio_5.xml"));
 
        System.out.println("Elemento raiz:" + document.getDocumentElement().getNodeName());
 
