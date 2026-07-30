@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<pelicula>
+    <actor>
+        <nombre>Jose</nombre>
+        <apellido1>Perez</apellido1>
+        <apellido2>Gutierrez</apellido2>
+        <edad>30</edad>
+    </actor>
+    <actor>
+        <nombre>Maria</nombre>
+        <apellido1>Bohm</apellido1>
+        <edad>32</edad>
+    </actor>
+</pelicula>

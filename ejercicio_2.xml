@@ -1,0 +1,11 @@
+<?xml version="1.0"?>
+<afundacion>
+    <curso>
+        <nombre>DAM1</nombre>
+        <alumnos>28</alumnos>
+    </curso>
+    <curso>
+        <nombre>DAM2</nombre>
+        <alumnos>32</alumnos>
+    </curso>
+</afundacion>
