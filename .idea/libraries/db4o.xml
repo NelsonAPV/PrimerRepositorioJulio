@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="db4o">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/Downloads/BDOO/db4o.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
